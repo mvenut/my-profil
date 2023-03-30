@@ -27,6 +27,10 @@ a{
 	font-weight: bold;
 }
 
+.img-circle{
+	border-radius: 50%;
+}
+
 /*custom design with class*/
 				
 				
